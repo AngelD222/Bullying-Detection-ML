@@ -29,9 +29,10 @@ El *notebook* documenta el proceso estructurado de la toma de decisiones algorí
 
 ### 3. Modelado Predictivo
 Se entrenaron y evaluaron varios modelos de aprendizaje automático para encontrar el ajuste óptimo al problema. Los algoritmos implementados incluyen:
-* [Añadir modelo 1, ej: Regresión Logística]
-* [Añadir modelo 2, ej: Random Forest / Árboles de Decisión]
-* [Añadir modelo 3, ej: Support Vector Machines (SVM) o KNN]
+* Regresión Logística]
+* Random Forest 
+* Support Vector Machines (SVM) o KNN]
+* Boosting/Stacking/Cascading
 
 ### 4. Evaluación y Métricas
 Los modelos no solo se evaluaron en base a su precisión global (*Accuracy*), sino que, dada la naturaleza del problema (posible desbalanceo de clases), se priorizaron métricas más robustas:
