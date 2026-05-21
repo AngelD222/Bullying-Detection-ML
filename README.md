@@ -35,7 +35,7 @@ Se entrenaron y evaluaron varios modelos de aprendizaje automático para encontr
 * Boosting/Stacking/Cascading
 
 ### 4. Evaluación y Métricas
-Los modelos no solo se evaluaron en base a su precisión global (*Accuracy*), sino que, dada la naturaleza del problema (posible desbalanceo de clases), se priorizaron métricas más robustas:
+Los modelos no solo se evaluaron en base a su precisión global (*Accuracy*), sino que, dada la naturaleza del problema (desbalanceo de clases), se priorizaron métricas más robustas:
 * Matriz de Confusión.
 * *Recall*, *Precision* y *F1-Score*.
 * Curva ROC y cálculo del AUC (Área Bajo la Curva).
